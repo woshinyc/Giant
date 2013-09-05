@@ -1,0 +1,33 @@
+//
+//  MainGameLayer.cpp
+//  Giant
+//
+//  Created by Mac on 13-9-4.
+//
+//
+
+#include "MainGameLayer.h"
+#include "ResourcesHelper.h"
+#include "GTool.h"
+bool MainGameLayer::init()
+{
+    if (DBaseLayer::init()) {
+        
+        
+        ResourcesHelper::shared(this)->readResourcesWithLevel(1);
+        CCSprite *bg=CCSprite::CCSprite::create("bg.jpg");
+        bg->setPosition(ccps(0.5, 0.5));
+        addChild(bg);
+        
+        return true;
+    }
+    return false;
+}
+
+#pragma mark---构建大炮
+void MainGameLayer::createCannon()
+{
+
+
+
+}

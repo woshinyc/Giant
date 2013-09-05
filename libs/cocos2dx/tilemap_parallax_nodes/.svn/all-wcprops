@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes
+END
+CCTMXTiledMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.cpp
+END
+CCParallaxNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCParallaxNode.cpp
+END
+CCTMXLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXLayer.h
+END
+CCTMXXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h
+END
+CCTMXObjectGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.cpp
+END
+CCTMXTiledMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.h
+END
+CCParallaxNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCParallaxNode.h
+END
+CCTileMapAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.cpp
+END
+CCTMXObjectGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h
+END
+CCTMXLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXLayer.cpp
+END
+CCTileMapAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.h
+END
+CCTMXXMLParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.cpp
+END

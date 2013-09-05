@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa
+END
+CCDataVisitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCDataVisitor.cpp
+END
+CCAffineTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCAffineTransform.h
+END
+CCGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCGeometry.cpp
+END
+CCSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCSet.cpp
+END
+CCDataVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCDataVisitor.h
+END
+CCGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCGeometry.h
+END
+CCBool.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCBool.h
+END
+CCSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCSet.h
+END
+CCInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCInteger.h
+END
+CCAutoreleasePool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCAutoreleasePool.cpp
+END
+CCDictionary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCDictionary.cpp
+END
+CCObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCObject.cpp
+END
+CCString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCString.cpp
+END
+CCAutoreleasePool.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCAutoreleasePool.h
+END
+CCFloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCFloat.h
+END
+CCDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCDictionary.h
+END
+CCObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCObject.h
+END
+CCString.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCString.h
+END
+CCZone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCZone.cpp
+END
+CCArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCArray.cpp
+END
+CCDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCDouble.h
+END
+CCNS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCNS.cpp
+END
+CCZone.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCZone.h
+END
+CCArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCArray.h
+END
+CCAffineTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCAffineTransform.cpp
+END
+CCNS.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/cocoa/CCNS.h
+END

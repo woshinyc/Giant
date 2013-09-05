@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox
+END
+CCEditBoxImplMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplMac.mm
+END
+CCEditBoxImplTizen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplTizen.cpp
+END
+CCEditBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBox.cpp
+END
+CCEditBoxImplWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplWin.cpp
+END
+CCEditBoxImplTizen.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplTizen.h
+END
+CCEditBoxImplIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplIOS.h
+END
+CCEditBoxImplNone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplNone.cpp
+END
+CCEditBoxImplIOS.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplIOS.mm
+END
+CCEditBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBox.h
+END
+CCEditBoxImplWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplWin.h
+END
+CCEditBoxImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImpl.h
+END
+CCEditBoxImplMac.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/GUI/CCEditBox/CCEditBoxImplMac.h
+END

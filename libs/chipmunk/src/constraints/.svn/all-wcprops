@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints
+END
+cpDampedSpring.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpDampedSpring.c
+END
+cpDampedRotarySpring.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpDampedRotarySpring.c
+END
+cpRatchetJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpRatchetJoint.c
+END
+cpGearJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpGearJoint.c
+END
+cpRotaryLimitJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpRotaryLimitJoint.c
+END
+cpConstraint.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpConstraint.c
+END
+cpSlideJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpSlideJoint.c
+END
+cpGrooveJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpGrooveJoint.c
+END
+cpPivotJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpPivotJoint.c
+END
+cpPinJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpPinJoint.c
+END
+cpSimpleMotor.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/chipmunk/src/constraints/cpSimpleMotor.c
+END

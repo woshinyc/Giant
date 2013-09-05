@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support
+END
+CCProfiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCProfiling.cpp
+END
+ccUTF8.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/ccUTF8.h
+END
+TransformUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/TransformUtils.h
+END
+CCPointExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCPointExtension.h
+END
+CCNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCNotificationCenter.h
+END
+CCProfiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCProfiling.h
+END
+ccUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/ccUtils.cpp
+END
+ccUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/ccUtils.h
+END
+CCVertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCVertex.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/base64.cpp
+END
+CCVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCVertex.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/base64.h
+END
+ccUTF8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/ccUTF8.cpp
+END
+TransformUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/TransformUtils.cpp
+END
+CCPointExtension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCPointExtension.cpp
+END
+CCNotificationCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/cocos2dx/support/CCNotificationCenter.cpp
+END

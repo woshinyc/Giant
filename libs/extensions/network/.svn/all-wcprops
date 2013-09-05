@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network
+END
+HttpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network/HttpClient.cpp
+END
+HttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network/HttpClient.h
+END
+HttpResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network/HttpResponse.h
+END
+WebSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network/WebSocket.cpp
+END
+WebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network/WebSocket.h
+END
+HttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/libs/extensions/network/HttpRequest.h
+END
