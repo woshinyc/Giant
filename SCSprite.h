@@ -34,7 +34,7 @@ inline const std::string getFileName(){return fileName ;};
 	inline const std::string getCardID(){return cardID;};
 
 	virtual bool ccTouchBegan(CCTouch* touch, CCEvent* event);
-	virtual void ccTouchMove(CCTouch* touch, CCEvent* event);
+	virtual void ccTouchMoved(CCTouch* touch, CCEvent* event);
 	virtual void ccTouchEnded(CCTouch* touch, CCEvent* event);
 
 	virtual void onEnter();

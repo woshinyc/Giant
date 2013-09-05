@@ -136,7 +136,7 @@ bool SCSprite::ccTouchBegan(CCTouch* touch, CCEvent* event)
 	return containsTouchLocation(touch);
 }
 
-void SCSprite::ccTouchMove(CCTouch* touch, CCEvent* event)
+void SCSprite::ccTouchMoved(CCTouch* touch, CCEvent* event)
 {
 
 }
